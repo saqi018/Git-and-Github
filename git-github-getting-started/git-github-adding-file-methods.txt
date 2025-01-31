@@ -7,13 +7,6 @@ Git is a software that helps you track and manage changes in your files over tim
 GitHub is an online hosting server where you can store your Git-managed projects. It allows you to share your code with others, collaborate on projects, and keep everything backed up in the cloud.
 
 
-          *****************************************************
- ### GIT VS GITHUB 
-![Git VS GitHUb ](image/Git-vs-GitHub.png)
-
-
-          *****************************************************
-
 
 
 In this section, we will learn about the "git add" command for adding files.

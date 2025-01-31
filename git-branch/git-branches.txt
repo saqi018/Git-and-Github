@@ -39,4 +39,4 @@ Once the spice works, you merge it into the master recipe.
 
 Commands:
 "git checkout main " Switch to the main branch.
-"git merge feature-idea"  Merge changes from feature-idea into main
+"git merge feature-idea"  Merge changes from feature-idea into main.
